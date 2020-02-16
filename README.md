@@ -18,4 +18,6 @@ aim is to use two, maybe three versions of this playlist.
 
 So far, the danceability and speechiness of the songs seem to be the most promising
 variables to analyse. 
-this is from r
+
+
+I am still struggling with the connection on github and rstudio and I've been basically knocked out since Tuesday hence no visualisations so far on this page. 
